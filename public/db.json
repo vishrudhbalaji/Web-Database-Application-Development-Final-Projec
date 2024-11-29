@@ -1,0 +1,64 @@
+{
+    "games":[
+        {
+            "game_id":1,
+            "game_name": "Spider-Man: Miles Morales",
+            "game_genre": "Action-Adventure",
+            "platform_version": "PlayStation 5",
+            "release_date": "2020-11-12",
+            "game_rating": 9.0,
+            "multiplayer_support": false,
+            "game_modes": ["Single-player"],
+            "game_price": 49.99,
+            "game_image":"https://imgs.search.brave.com/W3j5hkVeTB9fW4CiCnd4lS1MEk2DpcFUCA5sWegeF88/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzI0Mi8yMTYv/ODM3L3NwaWRlci1t/YW4tbWlsZXMtbW9y/YWxlcy1tb3ZpZXMt/YnJvb2tseW4tYnJp/ZGdlLXdhbGxwYXBl/ci1wcmV2aWV3Lmpw/Zw"
+        },
+        {
+            "game_id":2,
+            "game_name": "Elden Ring",
+            "game_genre": "Action RPG",
+            "platform_version": "PlayStation 5",
+            "release_date": "2022-02-25",
+            "game_rating": 9.8,
+            "multiplayer_support": true,
+            "game_modes": ["Single-player", "Co-op", "PvP"],
+            "game_price": 69.99,
+            "game_image":"https://imgs.search.brave.com/v29Y0FdDabUn4Cyx4e8f8QXu5r0ZZm0LIakcWX7WoeE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy83NjI2NTEt/ZWxkZW4tcmluZy1o/ZC13YWxscGFwZXIt/YW5kLWJhY2tncm91/bmQtaW1hZ2UuanBn"
+        },
+        {
+            "game_id":3,
+            "game_name": "God of War Ragnarök",
+            "game_genre": "Action-adventure",
+            "platform_version": "PlayStation 4, PlayStation 5",
+            "release_date": "2022-11-09",
+            "game_rating": "T for Teen",
+            "multiplayer_support": "Yes",
+            "game_modes": ["Single-player","Multiplayer"],
+            "game_price": 69.99,
+            "game_image":"https://imgs.search.brave.com/8r2UGifR3UkCQySFDNOiqVoW-tzUVuVN5H0WYAxPaxE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC82L2Iv/OC8xMzQyMzgtMzg0/MHgyMTYwLWRlc2t0/b3AtNGstZ29kLW9m/LXdhci1yYWduYXJv/ay1iYWNrZ3JvdW5k/LmpwZw"
+          },
+          {
+            "game_id":4,
+            "game_name": "Horizon Forbidden West",
+            "game_genre": "Action RPG",
+            "platform_version": "PlayStation 5",
+            "release_date": "2022-02-18",
+            "game_rating": 9.3,
+            "multiplayer_support": false,
+            "game_modes": ["Single-player"],
+            "game_price": 69.99,
+            "game_image":"https://imgs.search.brave.com/op_U9NnmirwRk5iQycIBf2c4wnJgI37TJZCyjqaROow/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC80L2Ev/Yy8xMjAxNy0xOTIw/eDEwODAtZGVza3Rv/cC1mdWxsLWhkLWhv/cml6b24tZm9yYmlk/ZGVuLXdlc3Qtd2Fs/bHBhcGVyLmpwZw"
+        },
+        {
+            "game_id":5,
+            "game_name": "The Last of Us Part II",
+            "game_genre": "Action-Adventure",
+            "platform_version": "PlayStation 4",
+            "release_date": "2020-06-19",
+            "game_rating": 9.6,
+            "multiplayer_support": false,
+            "game_modes": ["Single-player"],
+            "game_price": 39.99,
+            "game_image":"https://imgs.search.brave.com/3Vdf4CmOLMfQ1RWuFHO-PmO6GekNy8b-c7Oh_6DOmrs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYWxwaGFjb2Rl/cnMuY29tLzc4My83/ODMyNTQucG5n"
+        }
+    ]
+}
